@@ -9,4 +9,3 @@ A console-based Tic Tac Toe game developed using Java.
 ## How to Run
 javac TicTacToe.java
 java TicTacToe
-
