@@ -7,5 +7,6 @@ A console-based Tic Tac Toe game developed using Java.
 - OOP Concepts
 
 ## How to Run
-javac Geeks.java
-java Geeks
+javac TicTacToe.java
+java TicTacToe
+
